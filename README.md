@@ -1,5 +1,5 @@
 # 소개
-![img](https://img.shields.io/badge/React--skyblue?style=flat&logo=react) ![img](https://img.shields.io/badge/Javascript--yellow?style=flat&logo=javascript)
+![img](https://img.shields.io/badge/React--61DAFB?style=flat&logo=react) ![img](https://img.shields.io/badge/Javascript--f2ce19?style=flat&logo=javascript)
 > React 관련 학습내용을 정리한 스터디 레퍼지토리입니다.
 
 ## 목표
